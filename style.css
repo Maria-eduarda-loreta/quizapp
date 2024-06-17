@@ -189,7 +189,7 @@ main {
     }
 
     .boas_vindas h1{
-        font-size: 64px;]
+        font-size: 64px;
         margin-bottom: 48px;
     }
 
@@ -212,6 +212,4 @@ main {
         height: 56px;
         padding: 8px;
     }
-
-
 }
