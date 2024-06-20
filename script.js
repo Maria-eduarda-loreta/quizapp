@@ -1,4 +1,4 @@
-import { trocarTema, verificarTema } from "./helpers/tema-helper.js"
+import { trocarTema, verificarTema } from "./helpers/tema-helper"
 
 
 
