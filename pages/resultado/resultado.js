@@ -38,7 +38,7 @@ function inserirResultado(){
      `
         ${divAssunto.outerHTML}
 
-        strong>
+        <strong>
           ${pontos}
         </strong>
 
